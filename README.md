@@ -4,17 +4,20 @@ a collection of Algorithm Function challenges to sharpen your skills and help yo
 
 ## Instructions
 
--  each challenge contains an **Unsolved/Solved folder**. 
--  Start by opening a challenge and navigate to the `Unsolved/folder` 
--  Follow the instructions located in **readMe.md** editor 
+-  each challenge contains an **`Unsolved / Solved folder`**. 
+-  Start by opening a challenge and navigate to the **`Unsolved/folder`** 
+-  Follow the instructions located in the corresponding **readMe.md** .
 
 ## Solutions/Testing
 
 - You can check to see if your function works properly by opening `Unsolved/test.html` in your web browser.
 
   - Functions that _pass_ the tests will be denoted with a **green check mark**.
-
+  
   - Functions that _fail_ the tests will be denoted with a **red x and an error message**.
+  
+  - If you decide to give up you can find the solution in the corresponding **`Solved folder`**.
+  
  ###### **minor note**  
 - these functions use the `var` declaration. these will still work fine if you choose to use `const/let` respectively.
 - keep in mind that **`var`** is function scoped and **`let`** is block scoped.  🙂 
@@ -28,5 +31,5 @@ a collection of Algorithm Function challenges to sharpen your skills and help yo
 
 extension 
 
-- Live Server enables the HTML page to reload automatically after changes to files. which greatly accelerates testing your functions and building with HTML, CSS, and vanilla JavaScript . 
+- Live Server enables the HTML page to reload automatically after changes to files. Which greatly accelerates testing your functions and building with vanilla JavaScript, HTML, and CSS.
 
