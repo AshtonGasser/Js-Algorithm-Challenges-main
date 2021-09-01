@@ -10,7 +10,7 @@ a collection of Algorithm Function challenges to sharpen your skills and help yo
 
 ## Solutions/Testing
 
-- You can check to see if your function works properly by opening [Unsolved/test.html](Unsolved/test.html) in your web browser.
+- You can check to see if your function works properly by opening `Unsolved/test.html` in your web browser.
 
   - Functions that _pass_ the tests will be denoted with a **green check mark**.
 
