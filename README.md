@@ -1,9 +1,6 @@
-# Algorithms-Practice
+# Algorithm-function-Practice
 
-a collection of Algorithm Functions to  sharpen your skills and help you get prepared for technical interviews.
-
-any challenges that you want to add feel free to submit a pull request
-
+a collection of Algorithm Function challenges to sharpen your skills and help you get prepared for technical interviews. 
 
 ## Instructions
 
@@ -18,7 +15,11 @@ any challenges that you want to add feel free to submit a pull request
   - Functions that _pass_ the tests will be denoted with a **green check mark**.
 
   - Functions that _fail_ the tests will be denoted with a **red x and an error message**.
+ ###### **minor note**  
+- these functions use the `var` declaration. these will still work fine if you choose to use `const/let` respectively.
+- keep in mind that **`var`** is function scoped and **`let`** is block scoped.  🙂 
 
+- any challenges or features that you want to add feel free to submit a pull request 
 
 ## Recommended 
  - I highly recommend checking out the
@@ -27,5 +28,5 @@ any challenges that you want to add feel free to submit a pull request
 
 extension 
 
-- Live Server enables the HTML page to reload automatically after changes to files. which greatly accelerates testing your functions .
+- Live Server enables the HTML page to reload automatically after changes to files. which greatly accelerates testing your functions and building with HTML, CSS, and vanilla JavaScript . 
 
